@@ -23,7 +23,7 @@
     <parent>
         <artifactId>protocols</artifactId>
         <groupId>org.apache.james</groupId>
-        <version>1.6.3</version>
+        <version>1.6.3-fm</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 

@@ -28,7 +28,7 @@
     </parent>
 
     <artifactId>protocols</artifactId>
-    <version>1.6.3</version>
+    <version>1.6.3-fm</version>
     <packaging>pom</packaging>
 
     <name>Apache James :: Protocols</name>
